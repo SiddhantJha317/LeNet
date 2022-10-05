@@ -194,5 +194,4 @@ axs[1].plot(history.history['val_accuracy'])
 axs[1].title.set_text('Training Accuracy vs Validation Accuracy')
 axs[1].legend(['Train', 'Val'])
 ```
-![Alt Image text](/LeNet/download.png?raw=true "Optional Title")
-
+![download](https://user-images.githubusercontent.com/111745916/194023950-f8365a5e-be95-47d2-8a96-ea9f27a3c993.png)
